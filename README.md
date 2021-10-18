@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/danutiosif"><img src="https://api.daily.dev/devcards/2a7b036487a745a980a249d5f0afc16a.png?r=2n0" width="400" alt="Iosif Dan's Dev Card"/></a>
+
+
+<a href="https://app.daily.dev/danutiosif"><img src="https://github.com/danutiosif/danutiosif/blob/main/devcard.svg" width="400" alt="Iosif Dan's Dev Card"/></a>
+
+
+
 <!--
 **danutiosif/danutiosif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
